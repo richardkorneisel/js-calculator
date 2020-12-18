@@ -1,2 +1,2 @@
-var calculator = {
+let calculator = {
 }
